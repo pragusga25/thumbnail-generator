@@ -12,8 +12,8 @@ This project is a Python application that generates dynamic thumbnails from vide
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/dynamic-video-thumbnail-generator.git
-   cd dynamic-video-thumbnail-generator
+   git clone https://github.com/pragusga25/thumbnail-generator.git
+   cd thumbnail-generator
    ```
 
 2. Create a virtual environment:
